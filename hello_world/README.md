@@ -1,0 +1,3 @@
+# Notes
+
+! <=> Call rust macro
